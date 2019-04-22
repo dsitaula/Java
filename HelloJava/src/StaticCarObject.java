@@ -1,6 +1,6 @@
 
 /**
- * Creating Objects with Nested Class and Understanding the Scope of 
+ * Creating Objects with Nested Class and Understanding the Scope of variables
  * @author D
  *
  */
