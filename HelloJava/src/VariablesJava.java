@@ -1,4 +1,8 @@
-
+/**
+ * Understanding Java Variables, types and access modifiers 
+ * @author D
+ *
+ */
 public class VariablesJava {
 
 	public static void main(String[] args) {
