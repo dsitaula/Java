@@ -14,7 +14,7 @@ public class VariablesJava {
 		boolean bo; //true or false
 		
 		//String is non-primitive
-		String st = "Hello! I am String";
+		String st = "Hello,! I am String";
 		
 		//initializing variables
 		b = 126; 
